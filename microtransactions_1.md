@@ -26,7 +26,7 @@
 
 ### Сравнительная таблица:
 
-![screenshot-1](https://github.com/zitrax1/devops-netology/blob/main/microtransactions/img/HW_1_1.jpg)
+![screenshot-1](https://github.com/StudenikinNikolay/-a-/blob/main/1.jpg)
 
 ### Рекомендованное решение: **Kong**
 
@@ -57,7 +57,7 @@
 
 ### Сравнительная таблица:
 
-![screenshot-1](https://github.com/zitrax1/devops-netology/blob/main/microtransactions/img/HW_1_2.jpg)
+![screenshot-1](https://github.com/StudenikinNikolay/-a-/blob/main/2.jpg)
 
 ### Обоснованный выбор: **Apache Kafka**
 
